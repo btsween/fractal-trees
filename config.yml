@@ -1,0 +1,6 @@
+divisor: 2
+branches: 5
+length: 450
+cutoff: 2
+randomize_angle: True
+randomize_divisor: True
